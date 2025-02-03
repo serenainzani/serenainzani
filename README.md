@@ -1,4 +1,9 @@
-## Hi there 👋
+# Hi, I'm Serena ✨
+
+- 🔭 I’m currently working on full stack web development
+- 🏠 I’m based in Edinburgh, UK
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/serenainzani/)
+- 😄 Pronouns: she/her
 
 <!--
 **serenainzani/serenainzani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
