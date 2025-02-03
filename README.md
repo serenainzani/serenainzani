@@ -1,11 +1,11 @@
 # Hi, I'm Serena ✨
 
-- 🔭 I’m currently working on full stack web development
+- 🔭 I’m currently working on **full stack web development**
 - 🏠 I’m based in Edinburgh, UK
 - 📫 How to reach me: <a href="https://linkedin.com/in/https://www.linkedin.com/in/serenainzani/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="https://www.linkedin.com/in/serenainzani/" height="20" width="20" /></a>
-- 😄 Pronouns: she/her
+- 😄 she/her
 
-<h3 align="left">Languages and Tools:</h3>
+## Languages and Tools:
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
