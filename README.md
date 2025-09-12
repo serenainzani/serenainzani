@@ -3,6 +3,8 @@ Full stack web dev in Edinburgh, UK
 
 Say hi to me on LinkedIn: <a href="https://linkedin.com/in/https://www.linkedin.com/in/serenainzani/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="https://www.linkedin.com/in/serenainzani/" height="20" width="20" /></a>
 
+Check out my porfolio on [serena.software](https://www.serena.software/)
+
 
 ## Current Projects I'm working on 👩‍💻
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=serenainzani&repo=rpg-notes-app)](https://github.com/serenainzani/rpg-notes-app)
