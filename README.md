@@ -1,15 +1,14 @@
 # Hi, I'm Serena ✨
-*she/her*
+Full stack web dev in Edinburgh, UK
 
-<p>Full stack web dev in Edinburgh, UK</p>
-<p>Say hi to me on LinkedIn: <a href="https://linkedin.com/in/https://www.linkedin.com/in/serenainzani/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="https://www.linkedin.com/in/serenainzani/" height="20" width="20" /></a></p>
-<br />
+Say hi to me on LinkedIn: <a href="https://linkedin.com/in/https://www.linkedin.com/in/serenainzani/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="https://www.linkedin.com/in/serenainzani/" height="20" width="20" /></a>
+
 
 ## Current Projects I'm working on 👩‍💻
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=serenainzani&repo=rpg-notes-app)](https://github.com/serenainzani/rpg-notes-app)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=serenainzani&repo=restaurant-recommender-openai)](https://github.com/serenainzani/restaurant-recommender-openai)
 
-<br />
 
 ## Languages and Tools:
 <p align="left"> 
