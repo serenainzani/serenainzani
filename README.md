@@ -9,7 +9,7 @@ Check out my porfolio on [serena.software](https://www.serena.software/)
 ## Current Projects I'm working on 👩‍💻
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=serenainzani&repo=rpg-notes-app)](https://github.com/serenainzani/rpg-notes-app)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=serenainzani&repo=restaurant-recommender-openai)](https://github.com/serenainzani/restaurant-recommender-openai)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=serenainzani&repo=arduino-tutorial-notes)](https://github.com/serenainzani/arduino-tutorial-notes)
 
 
 ## Languages and Tools:
