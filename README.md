@@ -11,7 +11,6 @@ Check out my porfolio on [serena.software](https://www.serena.software/)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=serenainzani&repo=arduino-tutorial-notes)](https://github.com/serenainzani/arduino-tutorial-notes)
 
-
 ## Languages and Tools:
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
